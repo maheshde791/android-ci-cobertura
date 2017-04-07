@@ -1,0 +1,5 @@
+projectKey=LWSDK_ANDROID_LATEST_new
+serverUrl=http://172.27.59.116:9000
+dashboardUrl=http://172.27.59.116:9000/dashboard/index/LWSDK_ANDROID_LATEST_new
+ceTaskId=AVrVvXLMSMkv6GwrR99f
+ceTaskUrl=http://172.27.59.116:9000/api/ce/task?id=AVrVvXLMSMkv6GwrR99f
