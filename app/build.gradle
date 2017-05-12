@@ -28,8 +28,9 @@ android {
 }
 
 cobertura {
-    coverageFormats = ['xml']				
-    		
+    coverageFormats = ['html', 'xml']				
+    coverageIgnoreTrivial = true					
+    coverageIgnores = ['org.slf4j.Logger.*']	    		
     coverageReportDir = new File("app/build/reports/cobertura")	
 }
 
